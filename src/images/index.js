@@ -1,0 +1,1 @@
+export {default as TravelBook} from './TravelBook_logo.svg'
